@@ -83,6 +83,8 @@ STEP 5:Include Necessary parameters in each functions.
 <img width="569" height="517" alt="image" src="https://github.com/user-attachments/assets/3516b139-57c8-4546-aeb0-38b01aab5dc4" />
 
 <img width="550" height="496" alt="image" src="https://github.com/user-attachments/assets/aa432f98-746d-4975-8328-21275b71dbd0" />
+
+
 ```
  x = [1, 2, 3, 4, 5]
  y1 = [10, 12, 14, 16, 18]
@@ -147,4 +149,4 @@ fig, ax= plt.subplots()
 
 
 # Result:
- Include your result here
+ Thus, all the data visualization techniques of matplotlib has been implemented.
